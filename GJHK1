@@ -183,7 +183,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://tx.423617.xyz"
       ApiKey: "L2mN5pQ8rS1tV4wX7yZ0aB3cD6eF9gH2iJ5kL8nM1oP4qR7sT0vW3xY6zA9"
-      NodeID: 3
+      NodeID: 38
       NodeType: Shadowsocks # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 38 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
