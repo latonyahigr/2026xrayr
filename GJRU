@@ -17,7 +17,7 @@ Nodes:
     PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, V2board, PMpanel, Proxypanel
     ApiConfig:
       ApiHost: "https://tx.102387.xyz"
-      ApiKey: "aB7kD4sH2jL8mN5pQ1rS6tV9wX0yZ3aB7cD2eF5gH1iJ8kL6mN3pQ0rS9"
+      ApiKey: "1Kf7Qm9Tz2Rp8Vx4Nc6Hy3Ld5Ws0BjUa"
       NodeID: 36
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
@@ -72,7 +72,7 @@ Nodes:
     PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, V2board, PMpanel, Proxypanel
     ApiConfig:
       ApiHost: "https://tx.201345.xyz"
-      ApiKey: "M2nP9qR4sT7vW1xY5zA0bC8dE3fG6hJ1kL9mN4oP7qR2sT5vW8xY3zA6bC0"
+      ApiKey: "2Md8Xp4Qk7Tv1Zr6Ny5Hc9Ls3Wa0BjUf"
       NodeID: 35
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
@@ -127,7 +127,7 @@ Nodes:
     PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, V2board, PMpanel, Proxypanel
     ApiConfig:
       ApiHost: "https://tx.319043.xyz"
-      ApiKey: "X8yZ1aB4cD7eF0gH3iJ6kL9mN2oP5qR8sT1vW4xY7zA0bC3dE6fG9hJ2kL5"
+      ApiKey: "3Rt6Nk2Vz9Qm4Xp7Hy1Lc8Wd5Ts0BjUa"
       NodeID: 25
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
@@ -182,7 +182,7 @@ Nodes:
     PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, V2board, PMpanel, Proxypanel
     ApiConfig:
       ApiHost: "https://tx.423617.xyz"
-      ApiKey: "L2mN5pQ8rS1tV4wX7yZ0aB3cD6eF9gH2iJ5kL8nM1oP4qR7sT0vW3xY6zA9"
+      ApiKey: "4Vp9Qk3Nz7Tm2Rx6Hy8Lc1Wd5Js0BaUf"
       NodeID: 33
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
